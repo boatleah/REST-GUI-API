@@ -4,7 +4,7 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
-import urllib.request   # part of stdlib; no external libs needed
+import urllib.request  
 
 API_URL = "http://localhost:5000/submit"
 
